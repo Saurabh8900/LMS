@@ -8,19 +8,20 @@
   },
   "scripts": {
     "start": "nodemon server.js",
+    "production" : "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guptasajal411/bookshelfly.git"
+    "url": "https://github.com/Saurabh8900/LMS"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guptasajal411/bookshelfly/issues"
+    "url": "https://github.com/saurabh8900/lms/issues"
   },
-  "homepage": "https://github.com/guptasajal411/bookshelfly#readme",
+  "homepage": "https://github.com/saurabh8900/lms#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
